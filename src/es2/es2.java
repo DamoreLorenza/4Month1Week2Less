@@ -15,7 +15,6 @@ public class es2 {
             default: {
                 System.out.println("errore");
             }
-
         }
         input.close();
 

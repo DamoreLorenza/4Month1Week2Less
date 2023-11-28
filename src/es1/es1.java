@@ -8,9 +8,5 @@ public class es1 {
             System.out.println("condizione true" );
         }
         else {System.out.println("condizione false");};
-
-
-
-
     }
 }
